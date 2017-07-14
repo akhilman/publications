@@ -218,7 +218,7 @@
      inkscape:window-width="1280"
      inkscape:window-height="960"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
      borderlayer="true" />
@@ -230,7 +230,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -310,17 +310,17 @@
          x="45.747166"
          y="202.05055"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan4358">транзакция 1</tspan><tspan
+         id="tspan4358">транзакция</tspan><tspan
          sodipodi:role="line"
          x="45.747166"
          y="205.91182"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan4362">транзакция 2</tspan><tspan
+         id="tspan4362">транзакция</tspan><tspan
          sodipodi:role="line"
          x="45.747166"
          y="209.77307"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan4364">тразнакция 3</tspan><tspan
+         id="tspan4364">транзакция</tspan><tspan
          sodipodi:role="line"
          x="45.747166"
          y="213.63434"
@@ -428,17 +428,17 @@
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="202.05055"
          x="119.95625"
-         sodipodi:role="line">транзакция 4</tspan><tspan
+         sodipodi:role="line">транзакция</tspan><tspan
          id="tspan6602"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="205.91182"
          x="119.95625"
-         sodipodi:role="line">транзакция 5</tspan><tspan
+         sodipodi:role="line">транзакция</tspan><tspan
          id="tspan6604"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="209.77307"
          x="119.95625"
-         sodipodi:role="line">тразнакция 6</tspan><tspan
+         sodipodi:role="line">транзакция</tspan><tspan
          id="tspan6606"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="213.63434"
@@ -568,17 +568,17 @@
          x="194.03905"
          y="202.05055"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan8824">транзакция 7</tspan><tspan
+         id="tspan8824">транзакция</tspan><tspan
          sodipodi:role="line"
          x="194.03905"
          y="205.91182"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan8826">транзакция 8</tspan><tspan
+         id="tspan8826">транзакция</tspan><tspan
          sodipodi:role="line"
          x="194.03905"
          y="209.77307"
          style="font-size:3.52777767px;line-height:25%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan8828">тразнакция 9</tspan><tspan
+         id="tspan8828">транзакция</tspan><tspan
          sodipodi:role="line"
          x="194.03905"
          y="213.63434"
