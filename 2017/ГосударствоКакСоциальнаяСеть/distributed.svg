@@ -1048,9 +1048,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4118735"
-     inkscape:cx="383.23624"
-     inkscape:cy="248.79497"
+     inkscape:zoom="0.99834533"
+     inkscape:cx="357.50019"
+     inkscape:cy="230.73505"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1078,7 +1078,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1122,7 +1122,7 @@
          style="font-size:3.88055563px;line-height:36.00000143%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="169.75113"
          x="34.387516"
-         sodipodi:role="line">централизованные</tspan><tspan
+         sodipodi:role="line">централизованная</tspan><tspan
          id="tspan3685"
          style="font-size:3.88055563px;line-height:36.00000143%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="174.09578"
@@ -1138,7 +1138,7 @@
          style="font-size:3.88055563px;line-height:36.00000143%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="169.75113"
          x="104.84153"
-         sodipodi:role="line">децентрализованные</tspan><tspan
+         sodipodi:role="line">децентрализованная</tspan><tspan
          id="tspan3691"
          style="font-size:3.88055563px;line-height:36.00000143%;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="174.09578"
