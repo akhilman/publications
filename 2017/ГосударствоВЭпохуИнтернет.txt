@@ -1,8 +1,7 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
-====== ГосударствоВЭпохуИнтернет ======
-Created Monday 19 June 2017
+====== Государство в эпоху интернет ======
 
 ==== Интернет ====
 
