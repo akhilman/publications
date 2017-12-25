@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-
-====== Публикации ======
-Created Monday 19 June 2017
-
-[[2017]]
